@@ -7,7 +7,7 @@ debug_mode = True
 debug_lines = 5   
 
 # Set end time shift in milliseconds
-end_time_shift_ms = 250  
+end_time_shift_ms = 500  
 
 def read_transcript(file_path):
     transcript = []
